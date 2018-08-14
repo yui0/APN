@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AuthenticationType</key>
+					<string>PAP</string>
+					<key>Name</key>
+					<string>plus.4g</string>
+					<key>Password</key>
+					<string>4g</string>
+					<key>Username</key>
+					<string>plus</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>モバイルデータ通信設定を構成します</string>
+			<key>PayloadDisplayName</key>
+			<string>モバイルデータ通信</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.0303AB5D-E1E5-4989-8120-67C85E7844EB</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>D5104263-8A92-4B7B-BE45-6AF66D139405</string>
+			<key>PayloadVersion</key>
+			<real>1</real>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Japan Mobile APN 設定情報 (TypeS/LTE)</string>
+	<key>PayloadDisplayName</key>
+	<string>J-mobile_S</string>
+	<key>PayloadIdentifier</key>
+	<string>jp.j-mobile_s.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Japan Mobile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>EA58C83D-247F-4858-B080-F2933667AAB8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

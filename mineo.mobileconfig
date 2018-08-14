@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsData</key>
+					<dict>
+						<key>apns</key>
+						<array>
+							<dict>
+								<key>apn</key>
+								<string>mineo.jp</string>
+								<key>password</key>
+								<string>mineo</string>
+								<key>username</key>
+								<string>mineo@k-opti.com</string>
+							</dict>
+						</array>
+					</dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.managedCarrier</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Provides customization of carrier Access Point Name.</string>
+			<key>PayloadDisplayName</key>
+			<string>Advanced Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.k-opti.profile.apn1</string>
+			<key>PayloadOrganization</key>
+			<string>株式会社ケイ・オプティコム</string>
+			<key>PayloadType</key>
+			<string>com.apple.apn.managed</string>
+			<key>PayloadUUID</key>
+			<string>30EC8708-BF6B-4108-85CC-1D4BCB8F3144</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>mineo APN設定プロファイル</string>
+	<key>PayloadDisplayName</key>
+	<string>mineo</string>
+	<key>PayloadIdentifier</key>
+	<string>com.k-opti.profile</string>
+	<key>PayloadOrganization</key>
+	<string>株式会社ケイ・オプティコム</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>0D2C80FA-5047-47D7-82B3-E2F31B053246</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
